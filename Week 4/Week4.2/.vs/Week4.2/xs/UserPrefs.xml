@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BD2E10E9-0B1A-4E8B-A02F-48B07DBF0162}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week4.2/RevisedCode.cs">
+    <Files>
+      <File FileName="Week4.2/Original.cs" Line="1" Column="1" />
+      <File FileName="Week4.2/RevisedCode.cs" Line="22" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week4.2" expanded="True">
+            <Node name="Week4.2" expanded="True">
+              <Node name="RevisedCode.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>i</Value>
+          <Value>list[i]</Value>
+          <Value>i</Value>
+          <Value>list.Count</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week4.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

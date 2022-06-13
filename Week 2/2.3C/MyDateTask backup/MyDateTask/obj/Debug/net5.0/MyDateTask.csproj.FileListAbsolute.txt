@@ -1,0 +1,30 @@
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.csproj.AssemblyReference.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.AssemblyInfoInputs.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.AssemblyInfo.cs
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.csproj.CoreCompileInputs.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/bin/Debug/net5.0/MyDateTask.deps.json
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/bin/Debug/net5.0/MyDateTask.runtimeconfig.json
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/bin/Debug/net5.0/MyDateTask.runtimeconfig.dev.json
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/bin/Debug/net5.0/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/bin/Debug/net5.0/ref/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/bin/Debug/net5.0/MyDateTask.pdb
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/ref/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.pdb
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask/MyDateTask/obj/Debug/net5.0/MyDateTask.genruntimeconfig.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/bin/Debug/net5.0/MyDateTask.deps.json
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/bin/Debug/net5.0/MyDateTask.runtimeconfig.json
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/bin/Debug/net5.0/MyDateTask.runtimeconfig.dev.json
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/bin/Debug/net5.0/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/bin/Debug/net5.0/ref/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/bin/Debug/net5.0/MyDateTask.pdb
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.csproj.AssemblyReference.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.AssemblyInfoInputs.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.AssemblyInfo.cs
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.csproj.CoreCompileInputs.cache
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/ref/MyDateTask.dll
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.pdb
+/Users/cynthiachee/Documents/SIT 232 Code/Week 2/2.3C/MyDateTask backup/MyDateTask/obj/Debug/net5.0/MyDateTask.genruntimeconfig.cache

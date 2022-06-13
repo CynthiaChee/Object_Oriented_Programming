@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6C1DC02F-EC38-44EE-8648-ADD022C58490}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IfStatement/IfStatement.cs">
+    <Files>
+      <File FileName="IfStatement/IfStatement.cs" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IfStatement" expanded="True">
+            <Node name="IfStatement" expanded="True">
+              <Node name="IfStatement.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IfStatement PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

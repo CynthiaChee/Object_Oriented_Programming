@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F18FD5E5-2E90-4FA0-AFE4-48A67FBD24FE}|Default">
+  <MonoDevelop.Ide.ItemProperties.AccountTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountTask/Account.cs">
+    <Files>
+      <File FileName="AccountTask/TestAccount.cs" Line="9" Column="54" />
+      <File FileName="AccountTask/Account.cs" Line="40" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountTask" expanded="True">
+            <Node name="AccountTask" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

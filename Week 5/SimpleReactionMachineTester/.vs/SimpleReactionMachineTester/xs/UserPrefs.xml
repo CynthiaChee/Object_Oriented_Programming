@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{760E5D6B-0E75-44EF-91C5-72CF3AD8782E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleReactionMachineTester/SimpleReactionController (2).cs">
+    <Files>
+      <File FileName="SimpleReactionMachineTester/Program.cs" Line="13" Column="1" />
+      <File FileName="SimpleReactionMachineTester/IController.cs" />
+      <File FileName="SimpleReactionMachineTester/IGui.cs" />
+      <File FileName="SimpleReactionMachineTester/IRandom.cs" />
+      <File FileName="SimpleReactionMachineTester/SimpleReactionController.cs" Line="104" Column="33" />
+      <File FileName="SimpleReactionMachineTester/Tester.cs" />
+      <File FileName="SimpleReactionMachineTester/SimpleReactionController (1).cs" Line="129" Column="25" />
+      <File FileName="SimpleReactionMachineTester/SimpleReactionController (2).cs" Line="201" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleReactionMachineTester" expanded="True">
+            <Node name="SimpleReactionMachineTester" expanded="True">
+              <Node name="SimpleReactionController (2).cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SimpleReactionMachineTester PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

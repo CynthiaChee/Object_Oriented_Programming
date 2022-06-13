@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FECDC8E8-8E1E-4871-83D3-118624AE09E9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnhancedReactionController/EnhancedReactionController.cs">
+    <Files>
+      <File FileName="EnhancedReactionController/Program.cs" Line="13" Column="1" />
+      <File FileName="EnhancedReactionController/SimpleReactionController.cs" Line="10" Column="28" />
+      <File FileName="EnhancedReactionController/SimpleReactionMachine.cs" Line="1" Column="1" />
+      <File FileName="EnhancedReactionController/IRandom.cs" />
+      <File FileName="EnhancedReactionController/IState.cs" />
+      <File FileName="EnhancedReactionController/IGui.cs" />
+      <File FileName="EnhancedReactionController/IController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnhancedReactionController" expanded="True">
+            <Node name="EnhancedReactionController" expanded="True">
+              <Node name="EnhancedReactionController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.EnhancedReactionController PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

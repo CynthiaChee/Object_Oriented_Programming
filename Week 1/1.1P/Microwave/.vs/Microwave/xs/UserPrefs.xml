@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C3AF41FF-EABD-4479-AB0A-95E8DD78FB94}|Default">
+  <MonoDevelop.Ide.ItemProperties.Microwave PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Microwave/Microwave.cs">
+    <Files>
+      <File FileName="Microwave/Microwave.cs" Line="17" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microwave" expanded="True">
+            <Node name="Microwave" expanded="True">
+              <Node name="Microwave.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{EB1442A4-92A0-4FEF-A827-E89F766C1595}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DivisibleFour/DivisibleFour/DivisibleFour.cs">
+    <Files>
+      <File FileName="Repetition/Repetition.cs" Line="17" Column="26" />
+      <File FileName="../DivisibleFour/DivisibleFour/DivisibleFour.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Repetition" expanded="True">
+            <Node name="Repetition" expanded="True">
+              <Node name="Repetition.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Repetition PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

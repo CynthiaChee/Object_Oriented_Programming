@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AD1A3170-E0D9-4403-9EF1-046CCF8B4436}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.2P/BankSystem.cs">
+    <Files>
+      <File FileName="6.2P/BankSystem.cs" Line="100" Column="1" />
+      <File FileName="6.2P/Bank.cs" Line="46" Column="33" />
+      <File FileName="6.2P/Account.cs" />
+      <File FileName="6.2P/DepositTransaction.cs" Line="12" Column="32" />
+      <File FileName="6.2P/WithdrawTransaction.cs" />
+      <File FileName="6.2P/TransferTransaction.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6.2P" expanded="True">
+            <Node name="6.2P" expanded="True">
+              <Node name="BankSystem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.6.2P PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

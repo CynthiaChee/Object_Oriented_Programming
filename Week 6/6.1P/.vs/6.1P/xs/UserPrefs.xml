@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{41B75D9A-030F-4A39-9BD0-0EEA3A20A166}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.1P/Duck.cs">
+    <Files>
+      <File FileName="6.1P/Program.cs" Line="67" Column="41" />
+      <File FileName="6.1P/Bird.cs" Line="9" Column="10" />
+      <File FileName="6.1P/Penguin.cs" Line="16" Column="2" />
+      <File FileName="6.1P/Duck.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6.1P" expanded="True">
+            <Node name="6.1P" expanded="True">
+              <Node name="Duck.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.6.1P PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

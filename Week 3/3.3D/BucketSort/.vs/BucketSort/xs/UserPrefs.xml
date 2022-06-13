@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AE5654F9-4A60-4DC8-85E1-49447EE67C91}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BucketSort/AccountsSorter.cs">
+    <Files>
+      <File FileName="BucketSort/Account.cs" Line="5" Column="1" />
+      <File FileName="BucketSort/AccountsSorter.cs" Line="78" Column="41" />
+      <File FileName="BucketSort/Program.cs" Line="36" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BucketSort" expanded="True">
+            <Node name="BucketSort" expanded="True">
+              <Node name="AccountsSorter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BucketSort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{836A93EC-3858-4586-978A-07AEE13CEA2D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeeTask/Employee.cs">
+    <Files>
+      <File FileName="EmployeeTask/EmployeeProgram.cs" Line="17" Column="25" />
+      <File FileName="EmployeeTask/Employee.cs" Line="56" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmployeeTask" expanded="True">
+            <Node name="EmployeeTask" expanded="True">
+              <Node name="Employee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EmployeeTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

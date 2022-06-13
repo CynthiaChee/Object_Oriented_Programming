@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{ADA6A160-EBA4-4658-BE9C-158E74382731}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnhancedReactionMachineTester PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnhancedReactionMachineTester/EnhancedReactionController.cs">
+    <Files>
+      <File FileName="EnhancedReactionMachineTester/Program.cs" Line="13" Column="1" />
+      <File FileName="EnhancedReactionMachineTester/IController.cs" />
+      <File FileName="EnhancedReactionMachineTester/IGui.cs" />
+      <File FileName="EnhancedReactionMachineTester/IRandom.cs" />
+      <File FileName="EnhancedReactionMachineTester/Tester.cs" Line="26" Column="57" />
+      <File FileName="EnhancedReactionMachineTester/EnhancedReactionController.cs" Line="10" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnhancedReactionMachineTester" expanded="True">
+            <Node name="EnhancedReactionMachineTester" expanded="True">
+              <Node name="EnhancedReactionController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

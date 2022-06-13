@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{CDDEBEFA-312C-4B1D-81EC-732C8E868509}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MobileTask/Mobile.cs">
+    <Files>
+      <File FileName="MobileTask/MobileProgram.cs" Line="10" Column="106" />
+      <File FileName="MobileTask/Mobile.cs" Line="8" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MobileTask" expanded="True">
+            <Node name="MobileTask" expanded="True">
+              <Node name="Mobile.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MobileTask PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

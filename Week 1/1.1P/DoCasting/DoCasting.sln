@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoCasting", "DoCasting\DoCasting.csproj", "{3532208E-4D00-40A4-883E-EC4AF9953B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3532208E-4D00-40A4-883E-EC4AF9953B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3532208E-4D00-40A4-883E-EC4AF9953B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3532208E-4D00-40A4-883E-EC4AF9953B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3532208E-4D00-40A4-883E-EC4AF9953B57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEAAFED7-96A4-4DD1-BE42-77FD11A63362}
+	EndGlobalSection
+EndGlobal

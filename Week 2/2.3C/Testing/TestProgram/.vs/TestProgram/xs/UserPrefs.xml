@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C82A6CD7-0775-4C25-8A07-451946A17973}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestProgram/Program.cs">
+    <Files>
+      <File FileName="TestProgram/Program.cs" Line="32" Column="47" />
+      <File FileName="TestProgram/MyDate.cs" Line="216" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestProgram" expanded="True">
+            <Node name="TestProgram" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_month-1</Value>
+          <Value>_month</Value>
+          <Value>DAYSINMONTHS[0]</Value>
+          <Value>GetMonth()</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestProgram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

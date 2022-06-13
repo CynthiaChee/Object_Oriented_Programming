@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{49171B80-ABB0-4967-8C43-DBEEDAA6B465}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week3.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week3.2/BankSystem.cs">
+    <Files>
+      <File FileName="Week3.2/BankSystem.cs" Line="28" Column="1" />
+      <File FileName="Week3.2/Account.cs" Line="61" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week3.2" expanded="True">
+            <Node name="Week3.2" expanded="True">
+              <Node name="BankSystem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

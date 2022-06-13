@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microwave", "Microwave\Microwave.csproj", "{C3AF41FF-EABD-4479-AB0A-95E8DD78FB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3AF41FF-EABD-4479-AB0A-95E8DD78FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AF41FF-EABD-4479-AB0A-95E8DD78FB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AF41FF-EABD-4479-AB0A-95E8DD78FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AF41FF-EABD-4479-AB0A-95E8DD78FB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D18D08E1-48F1-44B2-A61F-0F53C4C77C57}
+	EndGlobalSection
+EndGlobal

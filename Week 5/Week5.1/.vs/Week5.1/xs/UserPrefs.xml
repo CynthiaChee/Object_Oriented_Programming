@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D279B0DC-D1E5-4E3B-AFF0-659DF1A503C4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week5.1/Animal.cs">
+    <Files>
+      <File FileName="Week5.1/ZooPark.cs" Line="11" Column="102" />
+      <File FileName="Week5.1/Animal.cs" Line="38" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week5.1" expanded="True">
+            <Node name="Week5.1" expanded="True">
+              <Node name="Animal.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Week5.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

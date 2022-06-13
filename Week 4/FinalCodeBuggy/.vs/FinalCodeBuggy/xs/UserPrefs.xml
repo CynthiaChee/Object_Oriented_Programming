@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F438033B-D82E-4E48-B278-57CEA25B06BF}|Default">
+  <MonoDevelop.Ide.ItemProperties.FinalCodeBuggy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalCodeBuggy/FinalCode.cs">
+    <Files>
+      <File FileName="FinalCodeBuggy/CodeFinal.cs" Line="17" Column="4" />
+      <File FileName="FinalCodeBuggy/Program.cs" Line="194" Column="10" />
+      <File FileName="FinalCodeBuggy/Task.cs" Line="14" Column="26" />
+      <File FileName="FinalCodeBuggy/Category.cs" Line="1" Column="1" />
+      <File FileName="FinalCodeBuggy/Folder.cs" Line="24" Column="10" />
+      <File FileName="FinalCodeBuggy/FinalCode.cs" Line="336" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalCodeBuggy" expanded="True">
+            <Node name="FinalCodeBuggy" expanded="True">
+              <Node name="FinalCode.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6169D7AF-F087-4D58-A850-BC1E1E8B69EF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GuessingNumber/GuessingNumber.cs">
+    <Files>
+      <File FileName="GuessingNumber/GuessingNumber.cs" Line="14" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GuessingNumber" expanded="True">
+            <Node name="GuessingNumber" expanded="True">
+              <Node name="GuessingNumber.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GuessingNumber PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

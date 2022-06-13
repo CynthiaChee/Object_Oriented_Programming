@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{D57C6DF6-DC14-48CA-90A6-36CB435567B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="6.12P/Program.cs">
+    <Files>
+      <File FileName="6.12P/Program.cs" Line="31" Column="69" />
+      <File FileName="6.12P/Animal.cs" Line="6" Column="41" />
+      <File FileName="6.12P/Cat.cs" Line="7" Column="10" />
+      <File FileName="6.12P/Dog.cs" Line="13" Column="54" />
+      <File FileName="6.12P/BigDog.cs" Line="13" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="6.12P" expanded="True">
+            <Node name="6.12P" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.6.12P PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

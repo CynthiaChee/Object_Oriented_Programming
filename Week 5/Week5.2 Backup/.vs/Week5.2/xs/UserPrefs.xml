@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{90B55237-B838-47C6-BCDD-2103A0C9BC8C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week5.2/Account.cs">
+    <Files>
+      <File FileName="Week5.2/BankSystem.cs" Line="87" Column="31" />
+      <File FileName="Week5.2/Account.cs" Line="36" Column="12" />
+      <File FileName="Week5.2/WithdrawTransaction.cs" Line="79" Column="28" />
+      <File FileName="Week5.2/DepositTransaction.cs" />
+      <File FileName="Week5.2/TransferTransaction.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week5.2" expanded="True">
+            <Node name="Week5.2" expanded="True">
+              <Node name="Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>_month </Value>
+          <Value>IsLeapYear(_year)</Value>
+          <Value>_day</Value>
+          <Value>_year</Value>
+          <Value>IsLeapYear(_year - 1)</Value>
+          <Value>DAYS_IN_MONTHS[_month]</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Week5.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

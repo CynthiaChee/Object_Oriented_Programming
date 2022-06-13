@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{C50FE31D-3747-4DA2-8B43-FEAFFAA16506}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week5.1.2/Eagle.cs">
+    <Files>
+      <File FileName="Week5.1.2/ZooPark.cs" Line="26" Column="31" />
+      <File FileName="Week5.1.2/Animal.cs" Line="24" Column="18" />
+      <File FileName="Week5.1.2/Bird.cs" Line="15" Column="1" />
+      <File FileName="Week5.1.2/Tiger.cs" Line="14" Column="18" />
+      <File FileName="Week5.1.2/Wolf.cs" Line="11" Column="18" />
+      <File FileName="Week5.1.2/Eagle.cs" Line="11" Column="18" />
+      <File FileName="Week5.1.2/Feline.cs" Line="11" Column="36" />
+      <File FileName="Week5.1.2/Lion.cs" Line="15" Column="1" />
+      <File FileName="Week5.1.2/Penguin.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week5.1.2" expanded="True">
+            <Node name="Week5.1.2" expanded="True">
+              <Node name="Eagle.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week5.1.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
